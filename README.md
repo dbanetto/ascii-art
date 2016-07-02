@@ -4,7 +4,7 @@ A fun hexchat plugin with similar commands to Slack's `/shrug`
 
 ## Commands
 
-* `/shrug <text>` - appends ¯\_(ツ)_/¯ to the end of the message
+* `/shrug <text>` - appends ¯\\\_(ツ)\_/¯ to the end of the message
 
 * `/flip <text>` - prepends '(╯°□°)╯︵ ┻━┻' to the end of the message
 
